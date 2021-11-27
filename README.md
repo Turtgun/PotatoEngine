@@ -1,5 +1,7 @@
 # PotatoEngine
 
+- README.md was copied from https://github.com/blurrypiano/littleVulkanEngine, their engine is way more mature, my engine is still being produced and SHOULD NOT BE USED as of now
+
 ### Install source files 
 
 ```
