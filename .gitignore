@@ -1,3 +1,4 @@
-*.a
-**/a.out
 .vscode
+build
+shader.frag.spv
+shader.vert.spv
