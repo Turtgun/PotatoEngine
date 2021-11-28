@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir -p build
+mkdir build
 cd build
 cmake -S ../ -B .
 make && make Shaders && ./PotatoEngine
