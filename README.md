@@ -21,7 +21,7 @@
 ### Unix Build Instructions (Arch)
 
 ```
-    sudo pacman -S vulkan-tools spirv-tools cmake glm glfw
+    sudo pacman -S vulkan-tools vulkan-validation-layers spirv-tools cmake glm glfw
 ```
 
 - Note glfw will install based on what window system you have, most notably glfw-wayland and glfw-x11
